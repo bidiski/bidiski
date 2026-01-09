@@ -3,6 +3,11 @@
 <!--
 **bidiski/bidiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Feel free to customize this template by replacing the placeholders with your own information!
+
+Quick Tip: Use Find & Replace (Ctrl+F / Cmd+F) to quickly replace all instances of:
+- [Your Name] with your actual name
+- [your-username] with your GitHub username
+- Other [placeholders] with your actual information
 -->
 
 ## 🚀 About Me
