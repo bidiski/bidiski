@@ -38,13 +38,13 @@ Feel free to customize this template by replacing the placeholders with your own
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidiski&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bidiski&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bidiski&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=[your-username]&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📌 Featured Projects
 
@@ -84,7 +84,7 @@ Feel free to customize this template by replacing the placeholders with your own
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bidiski&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">⭐️ From [bidiski](https://github.com/bidiski)</p>
+<p align="center">⭐️ From [[your-username]](https://github.com/[your-username])</p>
