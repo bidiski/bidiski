@@ -1,95 +1,49 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ariana! 👋
 
 <!--
 **bidiski/bidiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Feel free to customize this template by replacing the placeholders with your own information!
 
 Quick Tip: Use Find & Replace (Ctrl+F / Cmd+F) to quickly replace all instances of:
-- [Your Name] with your actual name
-- [your-username] with your GitHub username
+- Ariana with your actual name
+- bidiski with your GitHub username
 - Other [placeholders] with your actual information
 -->
 
 ## 🚀 About Me
 
-[Write a brief introduction about yourself. What do you do? What are you passionate about?]
+I'm a life-long lover of tech & computers who's finally taking the time to learn how to code. I'm a university student & full time job worker who's trying to make the most out of what I've got. The reason I'm here is to get hands on experience with different coding projects. Another reason is to develop my niches & find the tools & languages that I want to learn about.
 
-- 🔭 I'm currently working on **[Your Current Project/Job]**
-- 🌱 I'm currently learning **[Technologies/Skills]**
-- 👯 I'm looking to collaborate on **[Types of Projects]**
-- 🤔 I'm looking for help with **[Specific Areas]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[Your Email/Contact]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[An Interesting Fact About You]**
+Some quick notes:
+
+- 🔭 I'm currently reading through Python Crashcourse by Eric Matthes to dip my feet into the language.
+- 🌱 I'm currently in university to study Cloud & Network Engineering with a focus on AWS.
+- 🤔 I'm looking to learn what languages I'm interested in & how far I can push them.
+- 💬 Ask me about notetaking (I use Obsidian), journaling, & the fitness habit that I'm developing.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Born & raised in Puerto Rico 🇵🇷. Living in 'Merica.
 
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
-![Language1](https://img.shields.io/badge/-Language1-000?style=flat&logo=language1)
-![Language2](https://img.shields.io/badge/-Language2-000?style=flat&logo=language2)
-<!-- Add more language badges from https://shields.io -->
 
-### Frameworks & Libraries
-- **Frontend:** [e.g., React, Vue, Angular]
-- **Backend:** [e.g., Node.js, Django, Spring]
-- **Mobile:** [e.g., React Native, Flutter]
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) (in progress lmao)
 
 ### Tools & Platforms
+
 - **Version Control:** Git, GitHub
-- **Cloud:** [e.g., AWS, Azure, GCP]
-- **Databases:** [e.g., PostgreSQL, MongoDB, MySQL]
-- **DevOps:** [e.g., Docker, Kubernetes, CI/CD]
+- **Cloud:** Eventually AWS.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidiski&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=[your-username]&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-## 📌 Featured Projects
-
-### [Project Name 1](link-to-project)
-[Brief description of the project and your role/contribution]
-- **Tech Stack:** [Technologies used]
-- **Key Features:** [Highlight main features]
-
-### [Project Name 2](link-to-project)
-[Brief description of the project and your role/contribution]
-- **Tech Stack:** [Technologies used]
-- **Key Features:** [Highlight main features]
-
-### [Project Name 3](link-to-project)
-[Brief description of the project and your role/contribution]
-- **Tech Stack:** [Technologies used]
-- **Key Features:** [Highlight main features]
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](link-to-post)
-- [Blog Post Title 2](link-to-post)
-- [Blog Post Title 3](link-to-post)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=react&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
-
-## 💡 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=bidiski&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bidiski&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">⭐️ From [[your-username]](https://github.com/[your-username])</p>
+<p align="center">⭐️ From [bidiski](https://github.com/bidiski)</p>
