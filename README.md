@@ -1,29 +1,19 @@
-# Hi there, I'm Ariana! 👋
+# Hi there, I'm Ariana!
 
-<!--
-**bidiski/bidiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Feel free to customize this template by replacing the placeholders with your own information!
-
-Quick Tip: Use Find & Replace (Ctrl+F / Cmd+F) to quickly replace all instances of:
-- Ariana with your actual name
-- bidiski with your GitHub username
-- Other [placeholders] with your actual information
--->
-
-## 🚀 About Me
+## About Me
 
 I'm a life-long lover of tech & computers who's finally taking the time to learn how to code. I'm a university student & full time job worker who's trying to make the most out of what I've got. The reason I'm here is to get hands on experience with different coding projects. Another reason is to develop my niches & find the tools & languages that I want to learn about.
 
 Some quick notes:
 
-- 🔭 I'm currently reading through Python Crashcourse by Eric Matthes to dip my feet into the language.
-- 🌱 I'm currently in university to study Cloud & Network Engineering with a focus on AWS.
-- 🤔 I'm looking to learn what languages I'm interested in & how far I can push them.
-- 💬 Ask me about notetaking (I use Obsidian), journaling, & the fitness habit that I'm developing.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Born & raised in Puerto Rico 🇵🇷. Living in 'Merica.
+- I'm currently reading through Python Crashcourse by Eric Matthes to dip my feet into the language.
+- I'm currently in university to study Cloud & Network Engineering with a focus on AWS.
+- I'm looking to learn what languages I'm interested in & how far I can push them.
+- Ask me about notetaking (I use Obsidian), journaling, & the fitness habit that I'm developing.
+- Pronouns: she/her
+- Fun fact: Born & raised in Puerto Rico 🇵🇷. Living in 'Merica.
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Programming Languages
 
@@ -38,4 +28,3 @@ Some quick notes:
   <img src="https://komarev.com/ghpvc/?username=bidiski&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">⭐️ From [bidiski](https://github.com/bidiski)</p>
